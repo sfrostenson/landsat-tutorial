@@ -1,7 +1,7 @@
 landsat-tutorial
 ================
 
-BASH scripts for working through Mapbox's excellent [satellite imageary guide](https://www.mapbox.com/guides/processing-satellite-imagery/)
+BASH scripts for working through Mapbox's excellent [satellite imagery guide](https://www.mapbox.com/guides/processing-satellite-imagery/)
 
 
 ## Requirements
@@ -23,4 +23,7 @@ Using Development Seed's [landsat-util](https://github.com/developmentseed/lands
 To setup this project run `bash setup.sh` from the root directory.
 
 ## Process
-To process images for true color, run `bash process.sh` from the root directory.
+To process images for true color run `bash process.sh` from the root directory.
+
+## Further Resources
+Check out [Brian Jacobs's](https://twitter.com/btjakes) wonderful [resource guide](https://gist.github.com/briantjacobs/ae5510ca84ef172b2f5f?nicar)
